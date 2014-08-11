@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Texas Asset Protection]]></title>
+  <link href="http://TexasAssetProtection.github.io/atom.xml" rel="self"/>
+  <link href="http://TexasAssetProtection.github.io/"/>
+  <updated>2014-08-10T23:57:19-05:00</updated>
+  <id>http://TexasAssetProtection.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
